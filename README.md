@@ -33,10 +33,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ncn2569&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncn2569&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ncn2569&theme=radical&hide_border=true&bg_color=1F222E" alt="GitHub Activity Graph" />
 </div>
+<br>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncn2569&theme=radical" alt="Top Languages" />
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/ncn2569">
+    <img src="https://github-profile-trophy.vercel.app/?username=ncn2569&theme=radical&no-frame=false&no-bg=true&margin-w=4&hide=stars,followers,issues,reviews" alt="GitHub Trophies" />
+  </a>
+</div>
 <br>
 
 ### ✍️ Random Dev Quote
