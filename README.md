@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/223a2eaa-ae40-460c-9b55-6e38c5dade5e.gif" width="100%" alt="pixel-art-readme-gifs">
+
+
 # 💫 About Me:
 🔭 I’m currently a senior Computer Science student at Ho Chi Minh City University of Technology (HCMUT).
 🌱 I am highly self-driven, independently learning and building projects to continuously expand my knowledge in AI, ML, and Data Science.
@@ -42,12 +45,6 @@
 </div>
 <br>
 
-<div align="center">
-  <a href="https://github.com/ncn2569">
-    <img src="https://github-profile-trophy.vercel.app/?username=ncn2569&theme=radical&no-frame=false&no-bg=true&margin-w=4&hide=stars,followers,issues,reviews" alt="GitHub Trophies" />
-  </a>
-</div>
-<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
