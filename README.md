@@ -36,11 +36,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ncn2569&theme=radical&hide_border=true&bg_color=1F222E" alt="GitHub Activity Graph" />
-</div>
-<br>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncn2569&theme=radical" alt="Top Languages" />
 </div>
 <br>
